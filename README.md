@@ -4,13 +4,13 @@ A modern and interactive chatbot web application that helps users find the perfe
 
 ## Features
 
-- 🎨 Modern, responsive UI with Tailwind CSS
-- 🌓 Dark mode support
-- 💬 Interactive chat interface
-- ✨ Smooth animations and transitions
-- 🤖 Smart recommendations using Gemini API
-- 👕 Personalized clothing suggestions
-- 💡 Fashion-focused design with pastel gradients
+- 🎨 Modern, responsive UI with Tailwind CSS.
+- 🌓 Dark mode support.
+- 💬 Interactive chat interface.
+- ✨ Outfit suggestions based on current season.
+- 🤖 Smart recommendations using Gemini API.
+- 👕 Personalized clothing suggestions.
+- 💡 Fashion-focused design with pastel gradients.
 
 ## Setup
 
