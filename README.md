@@ -1,4 +1,4 @@
-# Personal Shopper Assistant
+# Seasonal Fashion Guide 
 
 A modern and interactive chatbot web application that helps users find the perfect outfit based on their style, weather, and seasonal preferences. Powered by **Gemini API**, this assistant provides smart fashion recommendations tailored to your needs, whether it's summer casuals or winter formals.
 
