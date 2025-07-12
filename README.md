@@ -4,13 +4,13 @@ A modern and interactive chatbot web application that helps users find the perfe
 
 ## Features
 
-- 🎨 Modern, responsive UI with Tailwind CSS.
-- 🌓 Dark mode support.
-- 💬 Interactive chat interface.
-- ✨ Outfit suggestions based on current season.
-- 🤖 Smart recommendations using Gemini API.
-- 👕 Personalized clothing suggestions.
-- 💡 Fashion-focused design with pastel gradients.
+- 🎨 Modern, responsive UI with Tailwind CSS
+- 🌓 Dark mode support
+- 💬 Interactive chatbot interface
+- ✨ Outfit suggestions based on current season
+- 🤖 Smart recommendations using Gemini API
+- 👕 Personalized clothing suggestions
+- 💡 Fashion-focused design with pastel gradients
 
 ## Setup
 
@@ -20,13 +20,13 @@ A modern and interactive chatbot web application that helps users find the perfe
 
 ## How to Use
 
-1. Click "Start Shopping" to begin the conversation.
+1. Click "Start Shopping" to begin the conversation
 2. Answer the chatbot's questions about your preferences:
    - Clothing type (casual, formal, partywear)
    - Budget
    - Gender
    - Preferred brands or colors
-3. Receive personalized outfit recommendations based on your inputs.
+3. Receive personalized outfit recommendations based on your inputs
 
 ## Technologies Used
 
@@ -40,8 +40,8 @@ A modern and interactive chatbot web application that helps users find the perfe
 To use this application, you'll need to:
 
 1. Visit [Google AI Studio](https://makersuite.google.com/app/apikey)
-2. Create an API key.
-3. Replace `YOUR_API_KEY` in the `app.js` file with your actual API key.
+2. Create an API key
+3. Replace `YOUR_API_KEY` in the `app.js` file with your actual API key
 
 ## Contributing
 
