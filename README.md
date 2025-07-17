@@ -32,7 +32,7 @@ A modern and interactive chatbot web application that helps users find the perfe
 
 - HTML5
 - Tailwind CSS
-- JavaScript (ES6+)
+- JavaScript 
 - Google's Gemini API
 
 ## API Setup
