@@ -38,7 +38,6 @@ A modern and interactive chatbot web application that helps users find the perfe
 ## API Setup
 
 To use this application, you'll need to:
-
 1. Visit [Google AI Studio](https://makersuite.google.com/app/apikey)
 2. Create an API key
 3. Replace `YOUR_API_KEY` in the `app.js` file with your actual API key
