@@ -2,6 +2,8 @@
 
 A modern and interactive chatbot web application that helps users find the perfect outfit based on their style, weather, and seasonal preferences. Powered by **Gemini API**, this assistant provides smart fashion recommendations tailored to your needs, whether it's summer casuals or winter formals.
 
+---
+
 ## Features
 
 - 🎨 Modern, responsive UI with Tailwind CSS
@@ -12,11 +14,15 @@ A modern and interactive chatbot web application that helps users find the perfe
 - 👕 Personalized clothing ideas based on user inputs
 - 💡 Fashion-focused design with pastel gradients
 
+  ---
+
 ## Setup
 
 1. Clone this repository
 2. Replace `YOUR_API_KEY` in `app.js` with your Gemini API key from Google AI Studio
 3. Open `index.html` in a modern web browser
+
+---
 
 ## How to Use
 
@@ -28,12 +34,16 @@ A modern and interactive chatbot web application that helps users find the perfe
    - Preferred brands or colors
 3. Receive personalized outfit recommendations based on your inputs
 
+---
+
 ## Technologies Used
 
 - HTML5
 - Tailwind CSS
 - JavaScript 
 - Google's Gemini API
+
+---
 
 ## API Setup
 
@@ -42,16 +52,24 @@ To use this application, you'll need to:
 2. Create an API key
 3. Replace `YOUR_API_KEY` in the `app.js` file with your actual API key
 
+---
+
 ## Contributing
 
 Feel free to submit issues and enhancement requests!
+
+---
 
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
+---
+
 ## Note
 
 Remember to keep your API key secure and never commit it directly to version control.
+
+---
 
 ##👩‍💻 **Developed by Anjali Yadav**
