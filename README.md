@@ -52,4 +52,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Note
 
-Remember to keep your API key secure and never commit it directly to version control. 
+Remember to keep your API key secure and never commit it directly to version control.
+
+##👩‍💻 **Developed by Anjali Yadav**
