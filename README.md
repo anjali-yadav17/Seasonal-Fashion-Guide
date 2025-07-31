@@ -14,7 +14,7 @@ A modern and interactive chatbot web application that helps users find the perfe
 - 👕 Personalized clothing ideas based on user inputs
 - 💡 Fashion-focused design with pastel gradients
 
-  ---
+---
 
 ## Setup
 
