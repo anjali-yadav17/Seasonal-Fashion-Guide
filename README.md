@@ -1,7 +1,7 @@
 # Seasonal Fashion Guide 
 
-[![Deployed on Vercel](https://vercel.com/button)](https://seasonal-fashion-guide.vercel.app)  
 A modern and interactive chatbot web application that helps users find the perfect outfit based on their style, weather, and seasonal preferences. Powered by **Gemini API**, this assistant provides smart fashion recommendations tailored to your needs, whether it's summer casuals or winter formals.
+[![Deployed on Vercel](https://vercel.com/button)](https://seasonal-fashion-guide.vercel.app)  
 
 ---
 
@@ -74,5 +74,6 @@ Remember to keep your API key secure and never commit it directly to version con
 ---
 
 ## 👩‍💻 **Developed by Anjali Yadav**
+
 
 
