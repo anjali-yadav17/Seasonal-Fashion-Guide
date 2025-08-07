@@ -29,7 +29,7 @@ A modern and interactive chatbot web application that helps users find the perfe
 
 ## 🛠️ How to Use
 
-1. Click "Start Shopping" to begin the conversation
+1. Click "Start Exploring" to begin the conversation
 2. Answer the chatbot's questions about your preferences:
    - Gender
    - Season (spring 🌸, summer ☀️or winter ❄️)
@@ -78,4 +78,5 @@ Remember to keep your API key secure and never commit it directly to version con
 ---
 
 ### 👩‍💻 Developed by Anjali Yadav
+
 
