@@ -75,7 +75,8 @@ Remember to keep your API key secure and never commit it directly to version con
 
 ---
 
-## 👩‍💻 Developed by Anjali Yadav
+### 👩‍💻 Developed by Anjali Yadav
+
 
 
 
