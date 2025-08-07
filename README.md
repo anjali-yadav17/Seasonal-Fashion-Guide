@@ -65,25 +65,16 @@ To use this application, you'll need to:
 
 ---
 
-## License
+## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## Note
+## 📝 Note
 
 Remember to keep your API key secure and never commit it directly to version control.
 
 ---
 
 ### 👩‍💻 Developed by Anjali Yadav
-
-
-
-
-
-
-
-
-
