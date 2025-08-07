@@ -31,11 +31,12 @@ A modern and interactive chatbot web application that helps users find the perfe
 
 1. Click "Start Shopping" to begin the conversation
 2. Answer the chatbot's questions about your preferences:
-   - Clothing type (casual, formal, partywear)
-   - Budget
    - Gender
+   - Season (spring 🌸, summer ☀️or winter ❄️)
+   - Clothing type (casual, formal, trendy)
+   - Occasion (everyday wear, special event, or work)
    - Preferred brands or colors
-3. Receive personalized outfit recommendations based on your inputs
+4. Receive personalized outfit recommendations based on your inputs
 
 ---
 
@@ -76,6 +77,7 @@ Remember to keep your API key secure and never commit it directly to version con
 ---
 
 ### 👩‍💻 Developed by Anjali Yadav
+
 
 
 
