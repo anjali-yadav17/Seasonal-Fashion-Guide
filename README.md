@@ -19,7 +19,7 @@ A modern and interactive chatbot web application that helps users find the perfe
 
 ---
 
-## Setup
+## ⚙️ Setup
 
 1. Clone this repository
 2. Replace `YOUR_API_KEY` in `app.js` with your Gemini API key from Google AI Studio
@@ -78,3 +78,4 @@ Remember to keep your API key secure and never commit it directly to version con
 ---
 
 ### 👩‍💻 Developed by Anjali Yadav
+
