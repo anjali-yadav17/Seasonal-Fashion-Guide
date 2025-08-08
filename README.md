@@ -4,7 +4,6 @@ A modern and interactive chatbot web application that helps users find the perfe
 
 🔗 **Live Demo**: [seasonal-fashion-guide.vercel.app](https://seasonal-fashion-guide.vercel.app)
 
-
 ---
 
 ## ✨ Features
@@ -79,5 +78,6 @@ Remember to keep your API key secure and never commit it directly to version con
 
 ## 👩‍💻 Developed by
 **Anjali Yadav**
+
 
 
